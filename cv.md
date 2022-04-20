@@ -10,12 +10,12 @@
 
 ---
 
-##About Myself:
+## About Myself:
 My first goal is to become junior front-end developer and i will spare nothing for this
 
 ---
 
-##skills
+## skills
 
 - HTML5, CSS3
 - javascript
@@ -30,7 +30,7 @@ _Nothing yet ..._
 
 ---
 
-##courses
+## courses
 
 - The Complete JavaScript Course 2022: From Zero to Expert! - udemy.com
 - Frontend_Course_Nov/2021 - unilab
@@ -38,14 +38,14 @@ _Nothing yet ..._
 
 ---
 
-##Education
+## Education
 
 - **Ilia State University**
   - Faculty of Computer Engineering
 
 ---
 
-##Language
+## Language
 
 - **Georgian**
 - **English level:** B1
